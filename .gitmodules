@@ -1,0 +1,3 @@
+[submodule "load_entry_series"]
+	path = load_entry_series
+	url = git@gitlab.com:xmarts/xmarts-apps/load_entry_series.git
